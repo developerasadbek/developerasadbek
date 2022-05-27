@@ -8,7 +8,7 @@ Skills: HTML / CSS / JavaScript / React
 - 🌱 I’m currently learning React 
 - 💬 Ask me about Everything do you want 
 - 📫 How to reach me: ruzmetov964@gamil.com 
-- ⚡ Fun fact: I love to play Dota 2 ! 
+- ⚡ Fun fact: I like bodybuilding 💪! 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/developerasadbek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asadbek-ruzmetov-719794231/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ruzmetovff/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/ruzmetovff/)  
