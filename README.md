@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Asadbek
-#### I am Front-end Developer
-From Tashkent, 17 y.o
+#### I am Frontend Developer
+From Tashkent, 18 y.o
 
 Skills: HTML / CSS / JavaScript / React
 
